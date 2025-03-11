@@ -2,3 +2,5 @@ Material Repository - https://github.com/knowledge-corner/Oracle_10_Mar_25
 
 Python Videos - https://www.youtube.com/playlist?list=PL74ja_8REXcYafeTYO4ivQDzYEDYQkTQu 
 
+Project Euler for examples - https://projecteuler.net/archives 
+
