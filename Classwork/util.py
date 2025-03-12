@@ -6,7 +6,7 @@ def is_int(func):  # func is the function object and the function with the decor
         if all(map(lambda num : type(num) == int, param)) :           
             return func(*param)
         else:
-            return "Error in the parameter"
+            raise TypeError("Arguments must of int type")
     return check
 
 @is_int
